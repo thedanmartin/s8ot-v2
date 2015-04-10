@@ -1,0 +1,2 @@
+class SupportersTripsController < ApplicationController
+end

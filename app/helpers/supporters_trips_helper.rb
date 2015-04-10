@@ -1,0 +1,2 @@
+module SupportersTripsHelper
+end
